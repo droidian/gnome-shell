@@ -2,6 +2,7 @@ Source: gnome-shell
 Section: gnome
 Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
 Uploaders: Jeremy Bícha <jbicha@ubuntu.com>, Marco Trevisan (Treviño) <marco@ubuntu.com>
+XS-Droidian-Extra-Repos: deb http://droidian.g.droidian.org/next-gnome-51-lindroid/ trixie main
 Build-Depends: appstream,
                bash-completion,
                dbus-daemon <!nocheck>,
